@@ -1,6 +1,6 @@
 ### Horizontal and vertical scaling
 
-<p align="center"><img src="./files/building-architecture/horizontal-vertical-scaling_eng.png" alt="Horizontal and vertical scaling"/></p>
+<p align="center"><img src="../../../original/files/building-architecture/horizontal-vertical-scaling_eng.png" alt="Horizontal and vertical scaling"/></p>
 
 Over time, when the load on your application starts to grow (more users come, new functionality appears and, as a consequence, more CPU time is involved), it becomes necessary to increase the server capacity. There are [2 main approaches](<https://en.wikipedia.org/wiki/Scalability#Horizontal_(scale_out)_and_vertical_scaling_(scale_up)>) for this:
 

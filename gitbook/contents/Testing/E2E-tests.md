@@ -1,6 +1,6 @@
 ### E2E tests
 
-<p align="center"><img src="./files/testing/testing-pyramid_eng.png" alt="Testing pyramid"/></p>
+<p align="center"><img src="../../../original/files/testing/testing-pyramid_eng.png" alt="Testing pyramid"/></p>
 
 End-to-end tests imply checking the operation of the entire system as a whole. In this type of testing, the environment is implemented as close to real-life conditions as possible. We can draw the analogy that a robot sits at the computer and presses the buttons in the specified order, as a real user would do.
 

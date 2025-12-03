@@ -1,6 +1,6 @@
 ### Algorithm complexity
 
-<p align="center"><img src="./files/common/BigO_eng.png" alt="BigO"/></p>
+<p align="center"><img src="../../../original/files/common/BigO_eng.png" alt="BigO"/></p>
 
 In the world of programming there is a special unit of measure [Big O notation](https://en.m.wikipedia.org/wiki/Big_O_notation). It describes how the complexity of an algorithm increases with the amount of input data. Big O estimates how many actions (steps/iterations) it takes to execute the algorithm, while always showing the worst case scenario.
 

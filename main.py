@@ -52,6 +52,37 @@ def post_process_gitbook():
             f.write(content)
         print("✅ Fixed toc.md")
 
+def fix_image_paths():
+    """Fix ./files/ paths to ../../../original/files/ based on folder depth"""
+    contents_dir = Path("gitbook/contents")
+    
+    for md_file in contents_dir.rglob("*.md"):
+        with open(md_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Calculate depth: contents/ (1) → Network--Internet/ (2) → file.md (3) = 2 '../'
+        rel_path = md_file.relative_to(contents_dir)
+        depth = len(rel_path.parent.parts) if rel_path.parent != Path('.') else 0
+        up_levels = '../' * (depth + 2)
+        
+        # Fix Markdown images: ![alt](./files/...) → ![alt](../../../original/files/...)
+        content = re.sub(
+            r'(\!\[.*?\]\()(\./files/)([^)]+)(\))',
+            rf'\1{up_levels}original/files/\3\4',
+            content
+        )
+        
+        # Fix HTML images: <img src="./files/..."> → <img src="../../../original/files/...">
+        content = re.sub(
+            r'(src=")(\./files/)([^"]+)(")',
+            rf'\1{up_levels}original/files/\3\4',
+            content
+        )
+        
+        with open(md_file, 'w', encoding='utf-8') as f:
+            f.write(content)
+        
+
 if __name__ == "__main__":
     fix_markdown("original/README.md", "original/README_fixed.md")
     
@@ -67,6 +98,7 @@ if __name__ == "__main__":
     if result.returncode == 0:
         print("✅ mdsplit completed successfully!")
         post_process_gitbook()  
+        fix_image_paths()
         print("📁 GitBook is ready in 'gitbook/contents/'")
     else:
         print("❌ mdsplit failed:")

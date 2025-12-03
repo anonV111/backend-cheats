@@ -1,6 +1,6 @@
 ### Hashing
 
-<p align="center"><img src="./files/security/hashing_eng.png" alt="Hashing"/></p>
+<p align="center"><img src="../../../original/files/security/hashing_eng.png" alt="Hashing"/></p>
 
 Cryptographic algorithms based on [hash functions](https://en.wikipedia.org/wiki/Hash_function) are widely used for network security.
 

@@ -1,6 +1,6 @@
 ### Concurrency and parallelism
 
-<p align="center"><img src="./files/os/concurrency-parallel.png" alt="Concurrency-parallelism"/></p>
+<p align="center"><img src="../../../original/files/os/concurrency-parallel.png" alt="Concurrency-parallelism"/></p>
 
 -   [Parallelism](https://en.wikipedia.org/wiki/Parallel_computing)
     > The ability to perform multiple tasks simultaneously using multiple processor cores, where each individual core performs a different task.

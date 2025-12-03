@@ -1,6 +1,6 @@
 ### Network problems
 
-<p align="center"><img src="./files/network-internet/problems_eng.gif" alt="Problems"/></p>
+<p align="center"><img src="../../../original/files/network-internet/problems_eng.gif" alt="Problems"/></p>
 
 The quality of networks, including the Internet, is far from ideal. This is due to the complex structure of networks and their dependence on a huge number of factors. For example, the stability of the connection between the client device and its router, the quality of service of the provider, the power, and performance of the server, the physical distance between the client and the server, etc.
 

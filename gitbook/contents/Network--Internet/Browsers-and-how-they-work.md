@@ -1,6 +1,6 @@
 ### Browsers and how they work
 
-<p align="center"><img src="./files/network-internet/browser_eng.png" alt="Browser"/></p>
+<p align="center"><img src="../../../original/files/network-internet/browser_eng.png" alt="Browser"/></p>
 
 [Browser](https://en.wikipedia.org/wiki/Web_browser) is a client which can be used to send requests to a server for files which can then be used to render web pages. In simple terms, a browser can be thought of as a program for viewing HTML files, which can also search for and download them from the Internet.
 

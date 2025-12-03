@@ -1,6 +1,6 @@
 ### Load balancing
 
-<p align="center"><img src="./files/optimization/load-balancer_eng.png" alt="CDN"/></p>
+<p align="center"><img src="../../../original/files/optimization/load-balancer_eng.png" alt="CDN"/></p>
 
 When the entire application code is maximally optimized and the server capacity is reaching its limits, and the load keeps growing, you have to resort to the [clustering](https://en.wikipedia.org/wiki/Computer_cluster) and [balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing)) mechanisms. The idea is to combine groups of servers into clusters, where the load is distributed between them using special methods and algorithms, called balancing.
 

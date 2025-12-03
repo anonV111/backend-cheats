@@ -5,7 +5,7 @@
 -   [Structure of HTTP messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
     > HTTP messages consist of a header section containing metadata about the message, followed by an optional message body containing the data being sent.
 
-<p align="center"><img src="./files/network-internet/http_eng.png" alt="HTTP"/></p>
+<p align="center"><img src="../../../original/files/network-internet/http_eng.png" alt="HTTP"/></p>
 
 -   [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
     > Additional service information that is sent with the request/response. <br>

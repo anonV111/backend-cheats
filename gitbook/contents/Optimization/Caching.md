@@ -2,7 +2,7 @@
 
 [Caching](https://aws.amazon.com/caching) is one of the most effective solutions for optimizing the performance of web applications. With caching, you can reuse previously received resources (static files), thereby reducing latency, reducing network traffic, and reducing the time it takes to fully load content.
 
-<p align="center"><img src="./files/optimization/cdn_eng.png" alt="CDN"/></p>
+<p align="center"><img src="../../../original/files/optimization/cdn_eng.png" alt="CDN"/></p>
 
 -   [CDN (Content Delivery Network)](https://en.wikipedia.org/wiki/Content_delivery_network)
     > A system of servers located around the world. Such servers allow you to store duplicate static content and deliver it much faster to users who are in close geographical proximity. Also when using CDN reduces the load on the main server.

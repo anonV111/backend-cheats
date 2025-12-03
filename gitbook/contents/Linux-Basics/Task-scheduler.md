@@ -1,6 +1,6 @@
 ### Task scheduler
 
-<p align="center"><img src="./files/linux/cron_eng.png" alt="cron"/></p>
+<p align="center"><img src="../../../original/files/linux/cron_eng.png" alt="cron"/></p>
 
 Schedulers allow you to flexibly manage the delayed running of commands and scripts. Linux has a built-in [cron](https://en.wikipedia.org/wiki/Cron) scheduler that can be used to easily perform necessary actions at certain intervals.
 

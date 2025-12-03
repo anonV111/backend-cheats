@@ -1,6 +1,6 @@
 ### Message brokers
 
-<p align="center"><img src="./files/software/message-queue_eng.png" alt="Message queue"/></p>
+<p align="center"><img src="../../../original/files/software/message-queue_eng.png" alt="Message queue"/></p>
 
 When creating a large-scale backend system, the problem of communication between a large number of microservices may arise. In order not to complicate existing services (establish a reliable communication system, distribute the load, provide for various errors, etc.) you can use a separate service, which is called a [message broker](https://en.wikipedia.org/wiki/Message_broker) (or message queue).
 

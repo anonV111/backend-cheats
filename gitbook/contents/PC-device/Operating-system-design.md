@@ -1,6 +1,6 @@
 ### Operating system design
 
-<p align="center"><img src="./files/os/os-layer_eng.png" alt="OS"/></p>
+<p align="center"><img src="../../../original/files/os/os-layer_eng.png" alt="OS"/></p>
 
 [Operating system (OS)](https://en.wikipedia.org/wiki/Operating_system) is a comprehensive software system designed to manage a computer's resources. With operating systems, people do not have to deal directly with the processor, RAM, or other parts of the PC.
 

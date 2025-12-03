@@ -1,6 +1,6 @@
 ### Web servers
 
-<p align="center"><img src="./files/software/web-server_eng.png" alt="Web server"/></p>
+<p align="center"><img src="../../../original/files/software/web-server_eng.png" alt="Web server"/></p>
 
 A [web server](https://en.wikipedia.org/wiki/Web_server) is a program designed to handle incoming HTTP requests. In addition, it can keep error logs (logs), perform authentication and authorization, store rules for file processing, etc.
 

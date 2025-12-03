@@ -1,6 +1,6 @@
 ### IP address
 
-<p align="center"><img src="./files/network-internet/IPv4-IPv6.png" alt="IPv4-IPv6"/></p>
+<p align="center"><img src="../../../original/files/network-internet/IPv4-IPv6.png" alt="IPv4-IPv6"/></p>
 
 [IP address](https://en.wikipedia.org/wiki/IP_address) is a unique numeric address that is used to recognize a particular device on the network.
 

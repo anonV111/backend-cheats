@@ -1,6 +1,6 @@
 ### Hosting
 
-<p align="center"><img src="./files/network-internet/Hosting.png" alt="Hosting"/></p>
+<p align="center"><img src="../../../original/files/network-internet/Hosting.png" alt="Hosting"/></p>
 
 [Hosting](https://en.wikipedia.org/wiki/Web_hosting_service) is a special [service provided](https://en.wikipedia.org/wiki/Internet_hosting_service) by hosting providers, which allows you to rent space on a server (which is connected to the Internet around the clock), where your data and files can be stored. There are different options for hosting, where you can use not only the disk space of the server, but also the CPU power to run your network applications.
 

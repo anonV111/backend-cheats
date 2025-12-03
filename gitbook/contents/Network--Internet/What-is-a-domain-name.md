@@ -1,6 +1,6 @@
 ### What is a domain name
 
-<p align="center"><img src="./files/network-internet/domain_eng.png" alt="Domain name"/></p>
+<p align="center"><img src="../../../original/files/network-internet/domain_eng.png" alt="Domain name"/></p>
 
 [Domain Names](https://en.wikipedia.org/wiki/Domain_name) are human-readable addresses of web servers available on the Internet. They consist of parts (levels) separated from each other by a dot. Each of these parts provides specific information about the domain name. For example country, service name, localization, etc.
 

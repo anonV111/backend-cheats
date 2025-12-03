@@ -1,6 +1,6 @@
 ### VPN and Proxy
 
-<p align="center"><img src="./files/network-internet/proxy-vpn_eng.png" alt="Proxy & VPN"/></p>
+<p align="center"><img src="../../../original/files/network-internet/proxy-vpn_eng.png" alt="Proxy & VPN"/></p>
 
 The use of VPNs and Proxy is quite common in recent years. With the help of these technologies, users can get basic anonymity when surfing the web, as well as bypass various regional blockages.
 

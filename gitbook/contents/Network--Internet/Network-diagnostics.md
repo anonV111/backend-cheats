@@ -1,6 +1,6 @@
 ### Network diagnostics
 
-<p align="center"><img src="./files/network-internet/Traceroute.png" alt="Traceroute"/></p>
+<p align="center"><img src="../../../original/files/network-internet/Traceroute.png" alt="Traceroute"/></p>
 
 -   [Traceroute](https://en.wikipedia.org/wiki/Traceroute)
     > A procedure that allows you to trace to which nodes, with which IP addresses, a packet you send before it reaches its destination. Tracing can be used to identify computer network related problems and to examine/analyze the network.

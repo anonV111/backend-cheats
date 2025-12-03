@@ -30,7 +30,7 @@ Linux-based operating systems are multi-user. This means that several people can
 
 On Linux, it is possible to share privileges between users, limit access to unwanted files or features, control available actions for services, and much more. On Linux, there are only three kinds of rights - read, write and execute - and three categories of users to which they can be applied - file owner, file group and everyone else.
 
-<p align="center"><img src="./files/linux/chmod_eng.png" alt="chmod"/></p>
+<p align="center"><img src="../../../original/files/linux/chmod_eng.png" alt="chmod"/></p>
 
 -   Basic commands for working with rights
     ```sh

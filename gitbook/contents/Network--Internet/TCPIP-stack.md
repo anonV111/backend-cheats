@@ -1,6 +1,6 @@
 ### TCP/IP stack
 
-<p align="center"><img src="./files/network-internet/tcp-ip_eng.png" alt="TCP/IP"/></p>
+<p align="center"><img src="../../../original/files/network-internet/tcp-ip_eng.png" alt="TCP/IP"/></p>
 
 Compared to the [OSI model](#osi-network-model), the [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) stack has a simpler architecture. In general, the TCP/IP model is more widely used and practical, and the OSI model is more theoretical and detailed. Both models describe the same principles, but differ in the approach and protocols they include at their levels.
 

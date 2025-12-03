@@ -1,6 +1,6 @@
 ### Processes and threads
 
-<p align="center"><img src="./files/os/process_eng.png" alt="Process"/></p>
+<p align="center"><img src="../../../original/files/os/process_eng.png" alt="Process"/></p>
 
 -   [Process](<https://en.wikipedia.org/wiki/Process_(computing)>)
     > A kind of container in which all the resources needed to run a program are stored. As a rule, the process consists of:
