@@ -1,5 +1,0 @@
-root: ./
-
-structure:
-  readme: contents/README.md
-  summary: contents/toc.md
