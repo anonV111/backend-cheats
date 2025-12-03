@@ -1,0 +1,5 @@
+root: ./
+
+structure:
+  readme: gitbook/contents/README.md
+  summary: gitbook/contents/toc.md
